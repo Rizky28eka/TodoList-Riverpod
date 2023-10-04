@@ -4,7 +4,8 @@ Ini adalah proyek akhir Kelompok 1 dalam mata kuliah Interaksi Manusia dan Kompu
 
 ## Demo Aplikasi
 
-<img src="https://github.com/Rizky28eka/riverpod_todo2/blob/main/Demo%20Aplikasi.mov" width="250" height="500"/>
+di bawah ini untuk melihat demo video aplikasi:
+<img src="https://github.com/Rizky28eka/riverpod_todo2/blob/main/DemoAplikasi.gif" width="200" height="400"/>
 
 ## Anggota Kelompok
 
