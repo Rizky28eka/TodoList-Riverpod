@@ -1,4 +1,5 @@
-# Aplikasi To-Do List - Final Project IMK ( Kelompok 1 - 22IF05 )
+# Aplikasi To-Do List - Final 
+#### Project IMK ( Kelompok 1 - 22IF05 )
 
 Ini adalah proyek akhir Kelompok 1 dalam mata kuliah Interaksi Manusia dan Komputer (IMK). Kami telah membuat aplikasi To-Do List yang bertujuan untuk membantu pengguna dalam mengatur waktu, mengingat deadline, memprioritaskan tugas.
 
