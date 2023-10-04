@@ -80,8 +80,9 @@ Proyek ini dilisensikan di bawah Lisensi [MIT](https://choosealicense.com/licens
 ## Kontak
 Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami:
 <br>
-Github : Rizky28eka
-<br>
-email : Rizky28eka@gmail.com
+## Sosial Media
+
+Anda dapat mengunjungi profil sosial media saya di [LinkTree](https://linktr.ee/Rizky28eka) untuk terhubung dengan saya di berbagai platform.
+
 <br>
 ### Terima kasih telah menggunakan aplikasi To-Do List kami!
