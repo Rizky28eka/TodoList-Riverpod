@@ -2,6 +2,8 @@
 
 Ini adalah proyek akhir Kelompok 1 dalam mata kuliah Interaksi Manusia dan Komputer (IMK). Kami telah membuat aplikasi To-Do List yang bertujuan untuk membantu pengguna dalam mengatur waktu, mengingat deadline, memprioritaskan tugas.
 
+## Demo Aplikasi
+
 ## Anggota Kelompok
 
 - Iqbal Faris Ihsani (22.11.4850)
