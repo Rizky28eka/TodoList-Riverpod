@@ -3,7 +3,8 @@
 Ini adalah proyek akhir Kelompok 1 dalam mata kuliah Interaksi Manusia dan Komputer (IMK). Kami telah membuat aplikasi To-Do List yang bertujuan untuk membantu pengguna dalam mengatur waktu, mengingat deadline, memprioritaskan tugas.
 
 ## Demo Aplikasi
-[![Demo Aplikasi](https://github.com/Rizky28eka/riverpod_todo2/blob/main/Demo%20Aplikasi.mov) ]
+
+<img src="https://github.com/Rizky28eka/riverpod_todo2/blob/main/Demo%20Aplikasi.mov" width="250" height="500"/>
 
 ## Anggota Kelompok
 
