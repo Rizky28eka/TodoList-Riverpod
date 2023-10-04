@@ -17,7 +17,7 @@ di bawah ini untuk melihat demo video aplikasi:
 - Rifqa Athifa (22.11.4865)
 - Winda Yulia Malaha (22.11.5071)
 
-### Masalah yang Dipecahkan
+## Masalah yang Dipecahkan
 
 Kami mengidentifikasi masalah-masalah berikut yang ingin kami selesaikan dengan aplikasi To-Do List kami:
 
@@ -25,7 +25,7 @@ Kami mengidentifikasi masalah-masalah berikut yang ingin kami selesaikan dengan 
 2. Sulit mengingat deadline.
 3. Kesulitan dalam memprioritaskan tugas.
 
-### Ide Solusi
+## Ide Solusi
 
 Untuk mengatasi masalah-masalah tersebut, kami telah mengembangkan aplikasi To-Do List yang mencakup fitur-fitur berikut:
 
