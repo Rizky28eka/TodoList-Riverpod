@@ -1,88 +1,25 @@
-# Aplikasi To-Do List - Final 
-#### Project IMK ( Kelompok 1 - 22IF05 )
+### Flutter Libraries Utilized
 
-Ini adalah proyek akhir Kelompok 1 dalam mata kuliah Interaksi Manusia dan Komputer (IMK). Kami telah membuat aplikasi To-Do List yang bertujuan untuk membantu pengguna dalam mengatur waktu, mengingat deadline, memprioritaskan tugas.
+Here are the Flutter libraries that are utilized in this project:
 
-## Demo Aplikasi
+- **equatable:** Equatable is a library that simplifies the creation of classes that can be easily compared based on their properties. This library is valuable for optimizing your app's performance by preventing unnecessary state updates.
 
-di bawah ini untuk melihat demo video aplikasi:
-<br>
-<br>
-<img src="https://github.com/Rizky28eka/riverpod_todo2/blob/main/DemoAplikasi.gif" width="200" height="400"/>
+- **flex_color_scheme:** Flex Color Scheme is a library that enables you to create attractive and flexible color schemes for your app. You can use this library to customize the primary, secondary, and surface colors of your app, as well as the app bar, background, scaffold, and theme modes.
 
-## Anggota Kelompok
+- **flutter_riverpod:** Flutter Riverpod is a provider-based state management solution for Flutter. You can utilize this library to access and update your app's state from any location in your widget tree without requiring context or boilerplate code.
 
-- Iqbal Faris Ihsani (22.11.4850)
-- Rizky Eka Haryadi (22.11.4829)
-- Muh. Ilham Nadzirullah (22.11.4818)
-- Rifqa Athifa (22.11.4865)
-- Winda Yulia Malaha (22.11.5071)
+- **font_awesome_flutter:** Font Awesome Flutter is a library that provides icons from Font Awesome, a popular icon collection suitable for various purposes. You can effortlessly integrate these icons into your app and adjust their color, size, and rotation.
 
-## Masalah yang Dipecahkan
+- **gap:** Gap is a library that offers a straightforward widget for creating spaces between adjacent widgets. You can utilize this widget to insert gaps in rows, columns, grids, lists, and more.
 
-Kami mengidentifikasi masalah-masalah berikut yang ingin kami selesaikan dengan aplikasi To-Do List kami:
+- **go_router:** Go Router is a Flutter router that supports navigation based on URLs, parameters, page transitions, and nested routing. This library also provides features such as deep linking, redirection, and guarding.
 
-1. Kesulitan dalam mengatur waktu.
-2. Sulit mengingat deadline.
-3. Kesulitan dalam memprioritaskan tugas.
+- **google_fonts:** Google Fonts is a library that allows you to use fonts from Google Fonts, a free service offering hundreds of high-quality fonts. You can dynamically download and apply these fonts without needing to include font assets in your app.
 
-## Ide Solusi
+- **intl:** Intl is a library that provides internationalization and localization capabilities, including message translation, plurals and genders, date/number formatting and parsing, and bidirectional text support.
 
-Untuk mengatasi masalah-masalah tersebut, kami telah mengembangkan aplikasi To-Do List yang mencakup fitur-fitur berikut:
+- **path:** Path is a library that offers common operations for manipulating paths on different platforms. You can use this library to join, split, normalize, compare, and manipulate paths.
 
-- Pengingat tugas.
-- Kalender untuk merencanakan tugas.
-- Kemampuan menentukan prioritas untuk setiap tugas.
-- Fitur catatan untuk mencatat informasi tambahan.
+- **sqflite:** Sqflite is a library that serves as a SQLite plugin for Flutter, supporting iOS, Android, macOS, Linux, and Windows. You can employ this library to create and access local SQLite databases in your app.
 
-## Target Pengguna
-
-Aplikasi To-Do List kami ditujukan untuk:
-
-- Rentang Umur: 15-60 tahun
-- Jenis Kelamin: Semua jenis kelamin
-- Tingkat Pendidikan/Profesi: Pelajar, mahasiswa, profesional
-- Area/Geografis: Seluruh Indonesia
-
-## Instalasi
-
-Untuk menjalankan aplikasi kami, Anda perlu mengikuti langkah-langkah instalasi berikut:
-
-1. Clone repositori ini ke komputer Anda.
-
-```bash
-https://github.com/Rizky28eka/riverpod_todo2.git)https://github.com/Rizky28eka/riverpod_todo2.git
-```
-
-2. Buka proyek dalam editor kode favorit Anda.
-
-3. Jalankan aplikasi di server lokal Anda.
-
-## Penggunaan
-
-Aplikasi kami sangat mudah digunakan. Berikut adalah panduan singkat:
-
-1. Tambahkan tugas baru ke daftar.
-2. Atur pengingat dan prioritas untuk setiap tugas.
-3. Gunakan kalender untuk merencanakan tugas Anda.
-
-## Kontribusi
-Kami sangat terbuka terhadap kontribusi dan masukan dari komunitas. Jika Anda ingin berkontribusi pada proyek ini, harap ikuti panduan berikut:
-
-1. Fork repositori ini.
-2. Buat cabang (branch) baru untuk pengembangan fitur atau perbaikan yang ingin Anda lakukan.
-3. Lakukan perubahan yang diperlukan.
-4. Ajukan pull request dengan deskripsi singkat tentang perubahan yang Anda lakukan.
-
-## Lisensi
-Proyek ini dilisensikan di bawah Lisensi [MIT](https://choosealicense.com/licenses/mit/). Lihat LICENSE untuk detail lebih lanjut.
-
-## Kontak
-Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami:
-<br>
-## Sosial Media
-
-Anda dapat mengunjungi profil sosial media saya di [LinkTree](https://linktr.ee/Rizky28eka) untuk terhubung dengan saya di berbagai platform.
-
-<br>
-### Terima kasih telah menggunakan aplikasi To-Do List kami!
+[Instagram Posted](https://www.instagram.com/p/CzGtpW4yaCd/)
